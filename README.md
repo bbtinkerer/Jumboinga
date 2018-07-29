@@ -18,7 +18,7 @@ Video on [Youtube.com](https://youtu.be/6GT_mvp9cMk)
 
 Follow the instructions at Adafruit to copy the following files to the Circuit Playground Express:
 
-* cody.py
+* code.py
 * 110317__timbre__remix-of-62176-fanfare-before-after.wav
 * 234565__foolboymedia__announcement-begin.wav
 * 320883__rhodesmas__action-03.wav
