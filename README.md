@@ -6,7 +6,7 @@ By bbtinkerer (<http://bb-tinkerer.blogspot.com/>)
 
 Simple roulette/wheel type game using a door stop spring to spin the wheel. Uses the Adafruit Circuit Playground Express (CPX) with a piezoelectric sensor and a door stop spring. User pulls back on the door stop spring and lets go (or knocks the game board really hard) to start the wheel moving (light going around the NeoPixel ring of the CPX). Wheel spin determined by how strong and long the spring vibrates.
 
-Instructions for building the game board are found at Instructables.com.
+Instructions for building the game board are found at [Instructables.com](https://www.instructables.com/id/Jumboinga-the-Jumping-Boinging-Game).
 
 Video on [Youtube.com](https://youtu.be/6GT_mvp9cMk)
 
